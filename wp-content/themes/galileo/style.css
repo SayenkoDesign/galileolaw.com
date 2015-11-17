@@ -1,0 +1,930 @@
+/*
+Theme Name: Galileo Law
+Theme URI: http://www.sayenkodesign.com
+Description: Theme for Galileo Law designed and developed by Sayenko Design
+Version: 1.0
+Author: Sayenko Design
+Author URI: http://www.sayenkodesign.com
+
+*/
+
+
+/*--- 10/21/15  Edits by Mike below is CSS styles that are duplicates of /themes/galileo/css/styles.css ---*/
+
+
+
+
+#field_1_8 label {
+  display: inline !important;
+}
+
+
+.contact_us p {
+    color: #4a4f55;
+    font-size: 17px !important;
+    line-height: 36px;
+}
+
+.contact_us a {
+    color: #d9be96;
+    font-size: 17px !important;
+}
+
+.contact_us_map {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 67px !important;
+}
+
+.blog a {
+    color: #4a4f55;
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 10px;
+    text-transform: uppercase !important;
+}
+header {
+    background-color: #f1f2f3;
+    border-bottom-color: #b0b6bc;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-top-color: #b27318;
+    border-top-style: solid;
+    border-top-width: 5px;
+    left: 0;
+    opacity: 0.85;
+    padding-bottom: 0 !important;
+    padding-top: 20px;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1024;
+}
+
+.nav > li {
+    padding-bottom: 31px;
+    padding-left: 0 !important;
+    padding-right: 0px !important;
+    padding-top: 4px;
+}
+
+.navbar-nav {
+    height: 35px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-right: 0;
+}
+
+.phone-icon{display:none;}
+.navbar ul li ul {
+    background-color: rgba(255, 255, 255, 0.85) !important;
+    box-shadow: none;
+}
+
+#bs-example-navbar-collapse-1 .hidden-xs .map {
+    color: #bc1d00 !important;
+}
+
+.learn_more h4 {
+    color: #4a4f55;
+    font-size: 20px;
+    line-height: 30px !important;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.started a {
+    background-color: #b86c36;
+    color: #fff;
+    font-size: 18px !important;
+    margin-top: 16px;
+    transition-delay: 0s;
+    transition-duration: 0.3s;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+}
+
+.started_3 a {
+    background-color: #b27318;
+    color: #fff;
+    font-size: 18px !important;
+    margin-top: 10px;
+    transition-delay: 0s;
+    transition-duration: 0.3s;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+}
+
+.videos a {
+    background-color: #b86c36;
+    color: #fff;
+    font-size: 18px !important;
+    margin-top: 10px;
+    transition-delay: 0s;
+    transition-duration: 0.3s;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+}
+
+
+
+.c-box h3 {
+    font-size: 24px !important;
+    font-weight: 100;
+    line-height: 32px !important;
+    margin-bottom: 50px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 18px !important;
+    text-shadow: none;
+    text-transform: uppercase;
+}
+
+.unique .btn-lg {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #bc7543;
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color: transparent;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-right-color: transparent;
+    border-right-style: solid;
+    border-right-width: 2px !important;
+    border-top-color: transparent;
+    border-top-style: solid;
+    border-top-width: 2px;
+    color: #fff;
+    font-size: 15px;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 15px;
+    margin-top: 30px;
+    width: 150px;
+}
+
+
+.about_img h4 {
+    color:  #b27318 !important;
+    font-size: 14px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.about_us h2 {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0) !important;
+    background-image: url("http://www.galileolaw.com/wp-content/themes/galileo/img/h-bg.jpg") !important;
+    background-origin: padding-box !important;
+    background-position: center bottom !important;
+    background-repeat: no-repeat !important;
+    background-size: auto auto !important;
+    border-bottom-color: #e2e2e2 !important;
+    border-bottom-style: solid !important;
+    border-bottom-width: 1px !important;
+    color: #b27318 !important;
+    font-size: 28px !important;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+
+
+.about_us h3 {
+    color: #bc7543 !important;
+    font-size: 18px !important;
+    line-height: 26px !important;
+    margin-bottom: 20px !important;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 22px !important;
+    text-transform: uppercase !important;
+}
+
+.videos h2 {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0) !important;
+    background-image: url("http://www.galileolaw.com/wp-content/themes/galileo/img/h-bg.jpg") !important;
+    background-origin: padding-box !important;
+    background-position: center bottom !important;
+    background-repeat: no-repeat !important;
+    background-size: auto auto !important;
+    border-bottom-color: #e2e2e2 !important;
+    border-bottom-style: solid !important;
+    border-bottom-width: 1px !important;
+    color: #b27318 !important;
+    font-size: 28px !important;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+
+.contact_us a {
+    color: #b27318 !important;
+    font-size: 21px;
+}
+
+#bs-example-navbar-collapse-1 .map {
+    color: #bc1d00;
+    font-size: 37px !important;
+    margin-left: 25px;
+    margin-top: 12px;
+    position: relative;
+    top: -9px !important;
+}
+
+
+
+.blog p {
+ 
+    padding-top: 10px !important;
+}
+
+.blog h2 {
+   
+    margin-bottom: 0 !important;
+}
+
+.blog h5 {
+  
+    line-height: 1.6;
+   
+}
+
+.services img {
+    position: relative;
+    top: 0 !important;
+}
+
+.clients img {
+    border-radius: 50px;
+}
+
+
+
+.clients .review {
+    font-size: 16px !important;
+    color: #c39f6c;
+    font-size: 18px;
+    margin-top: 30px;
+    text-transform: uppercase;
+
+
+}
+
+.clients p {
+    font-size: 18px;
+    padding: 20px;
+    text-align: center;
+    color: #4A4F55;
+}
+
+
+.clients h3 img {
+    left: 0;
+    position: inherit !important;
+    color: #4A4F55;
+    margin-top: 0;
+    position: relative;
+    font-weight: normal;
+    border-radius: 50px;
+}
+
+.clients h3 {
+    color: #4a4f55;
+  
+    font-weight: normal;
+    
+    margin-top: 0;
+
+    position: relative;
+    font-size: 16px !important; 
+    line-height: 30px !important;
+    padding:0px !important;
+
+
+}
+
+.clients h2 {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("../img/h-bg-2.jpg");
+    background-origin: padding-box;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    border-bottom-color: #97b8d2;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    color: #404449;
+    font-size: 28px !important;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+
+.services h2 {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("../img/h-bg.jpg");
+    background-origin: padding-box;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    border-bottom-color: #e2e2e2;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    font-size: 28px !important;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 20px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 20px;
+}
+
+.services h4 {
+    color: #50555b;
+    font-size: 21px !important;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+}
+.unique_1 h2 {
+   	background-attachment: scroll !important;
+	background-clip: border-box !important;
+	background-color: rgba(0,0,0,0) !important;
+	background-image: url("http://www.galileolaw.com/wp-content/themes/galileo/img/h-bg.jpg") !important;
+	background-origin: padding-box !important;
+	background-position: center bottom !important;
+	background-repeat: no-repeat !important;
+	background-size: auto auto !important;
+	border-bottom-color: #e2e2e2 !important;
+	border-bottom-style: solid !important;
+	border-bottom-width: 1px !important;
+    border-bottom-width: 1px !important;
+    font-size: 28px !important;
+      margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+
+
+ border-left-color: none !important;
+  border-left-style: solid;
+    border-left-width: 0px !important;
+  
+}
+
+.overview h2 {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("../img/h-bg.jpg");
+    background-origin: padding-box;
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    border-bottom-color: #e2e2e2;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    color: #b27318 !important;
+    font-size: 28px !important;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    text-transform: uppercase;
+    line-height:41px !important;
+}
+
+
+.our_word h2 {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("../img/h-bg.jpg");
+    background-origin: padding-box;
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    border-bottom-color: #e2e2e2;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    color: #b27318 !important;
+    font-size: 28px !important;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    text-transform: uppercase;
+    line-height:41px;
+}
+
+.our_word_4 h2 {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0) !important;
+    background-image: url("http://www.galileolaw.com/wp-content/themes/galileo/img/h-bg.jpg") !important;
+    background-origin: padding-box !important;
+    background-position: center bottom !important;
+    background-repeat: no-repeat !important;
+    background-size: auto auto !important;
+    border-bottom-color: #e2e2e2 !important;
+    border-bottom-style: solid !important;
+    border-bottom-width: 1px !important;
+    color: #b27318 !important;
+    font-size: 28px !important;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+
+.our_word_3 h2 {
+
+
+
+    background-attachment: scroll;
+    background-clip: border-box;
+  background-color: rgba(0,0,0,0) !important;
+	background-image: url("http://www.galileolaw.com/wp-content/themes/galileo/img/h-bg.jpg") !important;
+	background-origin: padding-box !important;
+	background-position: center bottom !important;
+	background-repeat: no-repeat !important;
+	background-size: auto auto !important;
+	border-bottom-color: #e2e2e2 !important;
+	border-bottom-style: solid !important;
+	border-bottom-width: 1px !important;
+    border-bottom-width: 1px !important;
+    color: #b27318 !important;
+    font-size: 28px !important;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+
+.our_word_2 h2 {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("../img/h-bg.jpg");
+    background-origin: padding-box;
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    border-bottom-color: #e2e2e2;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    color: #b27318 !important;
+    font-size: 28px !important;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    text-transform: uppercase;
+    line-height:41px;
+}
+
+.our_word .review {
+    color: #b27318 !important;
+    font-size: 18px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+.our_word_2 .review {
+    color: #b27318 !important;
+    font-size: 18px;
+    margin-top: 20px;
+    text-transform: uppercase;
+
+}
+
+
+
+
+
+.blog_post h2 {
+
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0,0,0,0) !important;
+	background-image: url("http://www.galileolaw.com/wp-content/themes/galileo/img/h-bg.jpg") !important;
+	background-origin: padding-box !important;
+	background-position: center bottom !important;
+	background-repeat: no-repeat !important;
+	background-size: auto auto !important;
+	border-bottom-color: #e2e2e2 !important;
+	border-bottom-style: solid !important;
+	border-bottom-width: 1px !important;
+    border-bottom-width: 1px !important;
+    color: #b27318 !important;
+    font-size: 28px !important;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+
+h3, .h3 {
+  
+}
+
+.categories 3 {
+    margin-bottom: 20px !important;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px;
+  color: #bc7543 !important;
+    font-size: 18px !important;
+    text-transform: uppercase !important;
+    line-height: 26px !important;
+}
+
+
+.overview h3 {
+    margin-bottom: 20px !important;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 22px !important;
+  color: #bc7543 !important;
+    font-size: 18px !important;
+    text-transform: uppercase !important;
+    line-height: 26px !important;
+}
+
+
+.our_word h3 {
+    color: #4a4f55; 
+    font-weight: normal;
+ font-size: 16px !important;
+    line-height: 30px !important;
+   
+}
+
+.our_word_2 h3 {
+    color: #4a4f55 !important;
+    font-weight: normal;
+     font-size: 16px !important;
+    line-height: 30px !important;
+}
+
+.unique_1 {
+    border-bottom-width: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.col-sm-offset-1 {
+    margin-left: 12.1%  !important;
+}
+
+.col-sm-10 {
+    width: 77.333% !important;
+}
+
+
+
+#gform_1 li.gfield textarea {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+   -moz-color: #757575 !important;
+    background-color: transparent;
+    border-bottom-color: #b27318 !important;
+    border-bottom-style: solid;
+    border-bottom-width: 2px !important;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color: #b27318 !important;
+    border-left-style: solid;
+    border-left-width: 2px !important;
+    border-right-color: #b27318 !important;
+    border-right-style: solid;
+    border-right-width: 2px !important;
+    border-top-color: #b27318 !important;
+    border-top-style: solid;
+    border-top-width: 2px !important;
+    color: #757575;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    width: 100%;
+}
+
+
+.ginput_container ginput_container_checkbox {
+    display: list-item !important;
+}
+
+#gform_1 label .ginput_container ginput_container_checkbox {
+    display: list-item !important;
+}
+
+#gform_1 .field_1_8 {
+    display: list-item !important;
+}
+
+body .gform_wrapper .gform_body .gform_fields #field_1_8.gfield checkbox 
+{
+display: list-item !important;
+}
+
+.gform_wrapper .gform_body .gform_fields #field_1_8.gfield_label {
+display: list-item !important;
+}
+
+
+#gform_1 li.gfield input[type="email"], #gform_1 li.gfield input[type="number"], #gform_1 li.gfield input[type="text"] {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: transparent;
+    border-bottom-color: #b27318 !important;
+    border-bottom-style: solid;
+    border-bottom-width: 2px !important;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color: #b27318 !important;
+    border-left-style: solid;
+    border-left-width: 2px !important;
+    border-right-color: #b27318 !important;
+    border-right-style: solid;
+    border-right-width: 2px !important;
+    border-top-color: #b27318 !important;
+    border-top-style: solid;
+    border-top-width: 2px !important;
+    color: #757575;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    width: 100%;
+}
+
+
+#gform_1 li.gfield select {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: transparent;
+    border-bottom-color: #b27318 !important;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-style: solid;
+    border-bottom-width: 2px !important;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color: #b27318 !important;
+    border-left-style: solid;
+    border-left-width: 2px !important;
+    border-right-color: #b27318 !important;
+    border-right-style: solid;
+    border-right-width: 2px !important;
+    border-top-color: #b27318 !important;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-top-style: solid;
+    border-top-width: 2px !important;
+    color: #757575;
+    height: 38px !important;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    width: 100%;
+}
+
+.contact_page_mark .fa fa-hand-o-right::before {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+
+    background-origin: padding-box;
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    color: #b27318;
+    content: "";
+    display: block;
+    height: 42px;
+    width: 42px;
+}
+
+.fa-hand-o-right::before {
+    content: "";
+    color: #b27318;
+    height: 42px;
+    width: 42px;
+}
+
+
+/*---------- 10/21/15 End of Edits by Mike --------*/
+
+/*---------- 10/22/15 End of Edits by Mike CSS styles that are duplicates of /themes/galileo/css/bootstrap.css --------*/
+
+ul, ol {
+    margin-bottom: 27px !important;
+    margin-top: 0;
+}
+
+/*---------- 10/22/15 End of Edits by Mike  --------*/
+
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+p img {
+	padding: 0;
+	max-width: 100%;
+	}
+a img {
+	border: none;
+	}
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+img.alignright {
+	padding: 4px;
+	margin: 0 0 2px 7px;
+	display: inline;
+	}
+
+img.alignleft {
+	padding: 4px;
+	margin: 0 7px 2px 0;
+	display: inline;
+	}
+
+/* End Images */
+
+
+@media (max-width:767px){
+
+.col-xs-12.nav.navbar-nav{background:#fff;}	
+.phone-icon{display:block; float:left; margin:9px 0; font-size:10px; position:relative;z-index:1;}
+.fa-phone::before {
+    color: #747474 !important;
+}	
+
+header.navbar-fixed-top #bs-example-navbar-collapse-1{margin:10px 0px 0;}
+.col-sm-offset-1 {margin-left:0 !important; text-align:center;}
+.started_3 .col-sm-3 {text-align:center;}
+
+
+.blog-c { 
+    background-color: #f5f5f5;
+    padding-bottom: 30px;
+    padding-left: 15px !important;
+}
+
+
+
+	}
+
+
+
+@media (max-width: 500px) {
+
+
+.our_word .col-sm-6 {
+    margin-bottom: 120px !important;
+}
+
+.our_word_2 .col-sm-6 {
+    margin-bottom: 50px !important;
+}
+
+.clients .col-sm-6 {
+    margin-bottom: 121px !important;
+}
+
+.clients img {
+    border-radius: 50px;
+}
+
+  }
+
+@media (max-width: 360px) {
+
+
+.clients .review {
+    font-size: 16px !important;
+}
+    
+.clients  .col-xs-2 {
+    width: 25%;
+}
+
+.clients .review {
+    margin-top: 15px !important;
+
+  padding: 0 0 0 0 !important;
+}
+
+.clients .col-xs-10 {
+    width: 75%;
+}
+
+.clients .img-circle {
+    margin-left: 0px !important;
+}
+
+
+
+  }
